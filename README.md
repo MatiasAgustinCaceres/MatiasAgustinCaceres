@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/matiascaceres97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matiascaceres97" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/matiasagustincaceres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias agustin caceres" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Matías Agustín Cáceres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias agustin caceres" height="30" width="40" /></a>
 <a href="https://instagram.com/matias_caceres97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matias_caceres97" height="30" width="40" /></a>
 </p>
 
