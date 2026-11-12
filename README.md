@@ -1,36 +1,50 @@
 <h1 align="center">Hi 👋, I'm Matías Agustín Cáceres</h1>
-<h3 align="center">Computer engineering student.</h3>
+<h3 align="center">Software Developer & Software Engineering Student at UBA</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matiasagustincaceres&show_icons=true&locale=en" alt="matiasagustincaceres" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matiasagustincaceres&show_icons=true&locale=en&theme=tokyonight" alt="matiasagustincaceres" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matiasagustincaceres&show_icons=true&locale=en&layout=compact" alt="matiasagustincaceres" /></p>
-
-<br>
-
-<h3 align="left">Languages, tools and frameworks:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matiasagustincaceres&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="matiasagustincaceres" />
 </p>
 
 <br>
 
-- 🌱 I’m currently learning **Front end development**
+<h3 align="left">About Me:</h3>
+<p align="left">
+  🔭 I’m currently working as a <b>Packaged App Development Analyst at Accenture</b>, designing system integrations using SAP Integration Suite, ABAP RAP, and building scalable business solutions.<br>
+  💻 Previously worked as a <b>Full-Stack Developer at Penta Consulting</b>, managing Microsoft CRM solutions with JavaScript, C#, and OData queries.<br>
+  🎓 Software Engineering student at the <b>University of Buenos Aires (UBA)</b>.<br>
+  ⚡ Passionate about enterprise integrations, modern web application design, and clean architecture.
+</p>
 
-- 👨‍💻 All of my projects are available at [https://matiasagustincaceres.github.io/](https://matiasagustincaceres.github.io/)
+<br>
 
-- 📫 How to reach me **matiasagustincaceres@hotmail.com**
+<h3 align="left">Tech Stack & Tools:</h3>
+<p align="left">
+  <!-- SAP & Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <!-- DevTools & Infra -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+</p>
+
+<br>
+
+- 🚀 Check out my portfolio and projects at [https://matiasagustincaceres.github.io/](https://matiasagustincaceres.github.io/)
+
+- 📫 Reach me at **matiasagustincaceres@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/matías-agustín-cáceres-0a6793159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias agustin caceres" height="30" width="40" /></a>
-<a href="https://instagram.com/matias_caceres97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matias_caceres97" height="30" width="40" /></a>
-<a href="https://twitter.com/matiascaceres97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matiascaceres97" height="30" width="40" /></a>
-
+  <a href="https://www.linkedin.com/in/matías-cáceres/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias agustin caceres" height="30" width="40" /></a>
+  <a href="https://github.com/MatiasAgustinCaceres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MatiasAgustinCaceres" height="30" width="40" /></a>
 </p>
-
-
-
-
-
-
