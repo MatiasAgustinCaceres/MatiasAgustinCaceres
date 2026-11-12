@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matías Agustín Cáceres</h1>
 <h3 align="center">Software Developer & Software Engineering Student at UBA</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiasAgustinCaceres&show_icons=true&locale=en&theme=tokyonight" alt="matiasagustincaceres stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatiasAgustinCaceres&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="matiasagustincaceres langs" />
-</p>
-
 <br>
 
 <h3 align="left">About Me:</h3>
@@ -23,16 +15,9 @@
 
 <h3 align="left">Tech Stack & Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?ids=nodejs,js,cs,java,py,html,css,docker,git,mysql" alt="Tech Stack" />
+  </a>
 </p>
 
 <br>
